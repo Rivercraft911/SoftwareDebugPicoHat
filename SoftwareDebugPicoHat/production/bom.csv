@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RaspberryPi_Pico_Common_THT,1,RaspberryPi_Pico,
+"C1, C2, C3",0603,3,0.1uF,
+D1,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,1,1655,
+J1,Molex_35362-0950,1,35362-0950,
+"J2, J4",SMA_Amphenol_901-144_horizontal,2,Conn_Coaxial,
+J3,USB_C_Receptacle_XKB_U262-161N-4BVC11,1,USB_C_Receptacle_USB2.0_14P,
+J5,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+R1,0603,1,10k,
+U1,RFM98PW,1,RFM98PW,
+U3,LORA128XF27,1,LORA1280F27-TCXO,
