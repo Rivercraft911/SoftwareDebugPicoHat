@@ -6,6 +6,10 @@ A simple breakout board for the Raspberry Pi Pico, designed for S-Band and UHF L
 
 [View Schematic PDF](Plots/SoftwareDebugPicoHat.pdf)
 
+## Power
+
+The S-Band and UHF LoRa radio modules require more power than the Raspberry Pi Pico can supply. Therefore, to use the radios, you must provide external power through the onboard USB-C connector.
+
 ## Pinout
 
 This board connects to a Raspberry Pi Pico and provides the following pinouts:
