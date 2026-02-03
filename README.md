@@ -24,7 +24,7 @@ This board connects to a Raspberry Pi Pico and provides the following pinouts:
 | 4   | ACDS_TX       | GP4      |
 | 5   | ACDS_RX       | GP5      |
 
-### S-Band Module
+### S-Band Module (LORA1280F27-TCXO)
 | Pin | Function      | Pico Pin |
 |-----|---------------|----------|
 | 8   | SBAND_RST     | GP8      |
@@ -37,7 +37,7 @@ This board connects to a Raspberry Pi Pico and provides the following pinouts:
 | 15  | SBAND_MOSI    | GP15     |
 | 20  | SBAND_D1      | GP20     |
 
-### UHF LORA Module
+### UHF LORA Module (RFM98PW)
 | Pin | Function      | Pico Pin |
 |-----|---------------|----------|
 | 16  | UHF_MISO      | GP16     |
