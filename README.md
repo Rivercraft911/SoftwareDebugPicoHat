@@ -48,7 +48,7 @@ This board connects to a Raspberry Pi Pico and provides the following pinouts:
 | 17  | UHF_CS        | GP17     |
 | 18  | UHF_SCK       | GP18     |
 | 19  | UHF_MOSI      | GP19     |
-| 20  | UHF_RST       | GP20     |
+| 20  | UHF_RST       | GP21     |
 | 28  | UHF_D0        | GP28     |
 
 ### Miscellaneous
