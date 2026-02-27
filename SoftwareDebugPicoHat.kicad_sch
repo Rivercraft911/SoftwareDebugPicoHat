@@ -4828,7 +4828,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 46.99) (xy 111.76 50.8)
+			(xy 111.76 45.72) (xy 111.76 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4848,7 +4848,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 35.56) (xy 111.76 41.91)
+			(xy 111.76 35.56) (xy 111.76 40.64)
 		)
 		(stroke
 			(width 0)
@@ -6644,7 +6644,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 111.76 44.45 0)
+		(at 111.76 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6652,7 +6652,7 @@
 		(dnp no)
 		(uuid "2e1317e3-93f7-477f-abec-35443e0af8e9")
 		(property "Reference" "C3"
-			(at 107.95 40.64 0)
+			(at 107.95 39.37 0)
 			(effects
 				(font
 					(size 1.4986 1.4986)
@@ -6661,7 +6661,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 107.95 43.18 0)
+			(at 107.95 41.91 0)
 			(effects
 				(font
 					(size 1.4986 1.4986)
@@ -6670,7 +6670,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 111.76 44.45 0)
+			(at 111.76 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6679,7 +6679,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.76 44.45 0)
+			(at 111.76 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6688,7 +6688,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 111.76 44.45 0)
+			(at 111.76 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7783,7 +7783,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 55.88 135.89 0)
 			(effects
 				(font
@@ -8751,7 +8751,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 59.69 133.35 0)
 			(effects
 				(font
